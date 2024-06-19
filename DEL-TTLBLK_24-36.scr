@@ -1,0 +1,6 @@
+filedia 0
+_erase all remove box 1.5,0.75 33.5,23.25
+
+_save
+
+filedia 1
